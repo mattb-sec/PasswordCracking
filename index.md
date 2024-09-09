@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5e63bdac-8afd-4d7b-8e31-3c3d26b8989a)# Introduction
+# Introduction
 
 Even with the most advanced methods for encrypting password files, human users remain notorious for using overly simple passwords. This can be a troubling fact especially when one considers that if the technology for password protection has advanced, so too has the technology for password cracking. In order to demonstrate this concept, a majority of this lab is dedicated to using two well-known programs for password cracking to decipher two file types which commonly store passwords. As you will see in the lab, this is done to varying degrees of success. Finally, this lab will analyze the properties of the password file on my own machine including its filename, location, and the integrity of its contents.
 
