@@ -126,22 +126,22 @@ For gauging an effective password length:
 
 # References
 
-<a href="https://kalilinuxtutorials.com/chntpw/#:~:text=The Security Accounts Manager (SAM,USB with kali Linux installed" target="_blank">
+- <a href="https://kalilinuxtutorials.com/chntpw/#:~:text=The Security Accounts Manager (SAM,USB with kali Linux installed" target="_blank">
 Chntpw - Windows Password, Account Forensics - Kalilinux</a>
 
-<a href="https://crackstation.net/about-us.htm" target="_blank">About CrackStation</a>
+- <a href="https://crackstation.net/about-us.htm" target="_blank">About CrackStation</a>
 
-<a href="https://www.betterbuys.com/estimating-password-cracking-times/" target="_blank">Estimating Password Cracking Times</a>
+- <a href="https://www.betterbuys.com/estimating-password-cracking-times/" target="_blank">Estimating Password Cracking Times</a>
 
-<a href="https://www.passfab.com/windows-10/crack-windows-10-password.html" target="_blank">How to Crack Windows 10 Password</a>
+- <a href="https://www.passfab.com/windows-10/crack-windows-10-password.html" target="_blank">How to Crack Windows 10 Password</a>
 
-<a href="https://www.openwall.com/john/doc/MODES.shtml" target="_blank">John the Ripper - Cracking Modes</a>
+- <a href="https://www.openwall.com/john/doc/MODES.shtml" target="_blank">John the Ripper - Cracking Modes</a>
 
-<a href="https://www.openwall.com/john/" target="_blank">John the Ripper Password Cracker</a>
+- <a href="https://www.openwall.com/john/" target="_blank">John the Ripper Password Cracker</a>
 
-<a href="https://cyberhoot.com/cybrary/rainbow-tables/" target="_blank">Rainbow Tables</a>
+- <a href="https://cyberhoot.com/cybrary/rainbow-tables/" target="_blank">Rainbow Tables</a>
 
-<a href="https://ophcrack.sourceforge.io/" target="_blank">Ophcrack</a>
+- <a href="https://ophcrack.sourceforge.io/" target="_blank">Ophcrack</a>
 
-<a href="https://www.ionos.com/digitalguide/server/security/rainbow-tables/" target="_blank">What are Rainbow Tables?</a>
+- <a href="https://www.ionos.com/digitalguide/server/security/rainbow-tables/" target="_blank">What are Rainbow Tables?</a>
 
