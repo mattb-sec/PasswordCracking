@@ -126,8 +126,7 @@ For gauging an effective password length:
 
 # References
 
-- <a href="https://kalilinuxtutorials.com/chntpw/#:~:text=The Security Accounts Manager (SAM,USB with kali Linux installed" target="_blank">
-Chntpw - Windows Password, Account Forensics - Kalilinux</a>
+- <a href="https://kalilinuxtutorials.com/chntpw/#:~:text=The Security Accounts Manager (SAM,USB with kali Linux installed" target="_blank"> Chntpw - Windows Password, Account Forensics - Kalilinux</a>
 
 - <a href="https://crackstation.net/about-us.htm" target="_blank">About CrackStation</a>
 
